@@ -1,4 +1,4 @@
-public class Pattern1 {
+public class Pattern4 {
     public static void main(String[] args) {
         int rows = 4;
         for (int i = 1; i <= rows; i++) {           // outer loop → controls rows
